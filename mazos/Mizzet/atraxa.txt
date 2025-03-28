@@ -1,0 +1,82 @@
+1 Abrade
+1 Aetherize
+1 Arcane Denial
+1 Arcane Signet
+1 Archaeomancer
+1 Archmage Emeritus
+1 Basilisk Collar
+1 Blasphemous Act
+1 Brainstorm
+1 Cascade Bluffs
+1 Chaos Warp
+1 Command Tower
+1 Commander's Sphere
+1 Counterflux
+1 Counterspell
+1 Crackling Drake
+1 Curiosity
+1 Cyclonic Rift
+1 Decanter of Endless Water
+1 Dramatic Reversal
+1 Dualcaster Mage
+1 Expansion // Explosion
+1 Expressive Iteration
+1 Faithless Looting
+1 Fellwar Stone
+1 Frantic Search
+1 Frostboil Snarl
+1 Gelectrode
+1 Gilded Lotus
+1 Goblin Electromancer
+1 Guttersnipe
+1 Harmonic Prodigy
+1 Hydroelectric Specimen
+1 Hypersonic Dragon
+1 Invoke the Firemind
+12 Island
+1 Izzet Boilerworks
+1 Izzet Charm
+1 Izzet Cluestone
+1 Izzet Guildgate
+1 Izzet Signet
+1 Lightning Bolt
+1 Melek, Izzet Paragon
+1 Mercurial Chemister
+1 Mizzium Mortars
+9 Mountain
+1 Mystical Tutor
+1 Negate
+1 Niv-Mizzet, Parun
+1 Niv-Mizzet, Visionary
+1 Niv-Mizzet, the Firemind
+1 Nivix Guildmage
+1 Ophidian Eye
+1 Opt
+1 Ponder
+1 Preordain
+1 Ral Zarek
+1 Reliquary Tower
+1 Rewind
+1 Rhystic Study
+1 Shivan Reef
+1 Sol Ring
+1 Steam Vents
+1 Storm-Kiln Artist
+1 Stormcarved Coast
+1 Sulfur Falls
+1 Swiftfoot Boots
+1 Swiftwater Cliffs
+1 Talisman of Creativity
+1 Talrand, Sky Summoner
+1 Temple of Epiphany
+1 The Locust God
+1 Thermo-Alchemist
+1 Third Path Iconoclast
+1 Thought Vessel
+1 Thousand-Year Storm
+1 Training Center
+1 Treasure Cruise
+1 Vandalblast
+1 Wizard Class
+
+1 Niv-Mizzet, Dracogenius

@@ -14,6 +14,6 @@ def hacer_request():
 
             # Convertir a DataFrame
             df_sucio = pd.DataFrame(cards_data)
-            df_sucio.to_csv("scryfall_cards.csv", index=False)
+            df_sucio.to_csv("../data/scryfall_cards.csv", index=False)
             print("Archivo guardado como 'scryfall_cards.csv'")
             break

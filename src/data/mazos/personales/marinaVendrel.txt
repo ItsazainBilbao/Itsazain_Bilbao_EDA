@@ -1,0 +1,104 @@
+1 Arcane Signet
+1 Arid Mesa
+1 Bello, Bard of the Brambles
+1 Blood Crypt
+1 Boseiju, Who Endures
+1 Bottomless Pool // Locker Room
+1 Breeding Pool
+1 Central Elevator // Promising Stairs
+1 Charred Foyer // Warped Space
+1 Chromatic Lantern
+1 City of Brass
+1 Command Tower
+1 Cramped Vents // Access Maze
+1 Dazzling Theater // Prop Room
+1 Defiled Crypt // Cadaver Lab
+1 Demon of Fate's Design
+1 Demonic Tutor
+1 Derelict Attic // Widow's Walk
+1 Dollmaker's Shop // Porcelain Gallery
+1 Dryad of the Ilysian Grove
+1 Eidolon of Blossoms
+1 Enchantress's Presence
+1 Enduring Vitality
+1 Enlightened Tutor
+1 Entity Tracker
+1 Exotic Orchard
+1 Extinguish All Hope
+1 Fear of Sleep Paralysis
+1 Flooded Strand
+0 Forest
+1 Funeral Room // Awakening Hall
+1 Ghostly Dancers
+1 Ghostly Keybearer
+1 Glassworks // Shattered Yard
+1 Godless Shrine
+1 Grand Entryway // Elegant Rotunda
+1 Greenhouse // Rickety Gazebo
+1 Gremlin Tamer
+1 Hall of Heliod's Generosity
+1 Hallowed Fountain
+1 Hallowed Haunting
+1 Herald of the Pantheon
+1 Indatha Triome
+1 Inquisitive Glimmer
+1 Island
+1 Jukai Naturalist
+1 Ketria Triome
+1 Keys to the House
+1 Mana Confluence
+1 Marsh Flats
+1 Meat Locker // Drowned Diner
+1 Mirror Room // Fractured Realm
+1 Misty Rainforest
+1 Moldering Gym // Weight Room
+0 Mountain
+1 Ondu Spiritdancer
+1 Overgrown Tomb
+1 Overlord of the Hauntwoods
+1 Path to Exile
+1 Patriar's Seal
+1 Pemmin's Aura
+1 Plains
+1 Polluted Delta
+1 Raffine's Tower
+1 Raugrin Triome
+1 Redress Fate
+1 Replenish
+1 Restricted Office // Lecture Hall
+1 Rhystic Study
+1 Roaring Furnace // Steaming Sauna
+1 Sacred Foundry
+1 Sanctum Weaver
+1 Savai Triome
+1 Secret Arcade // Dusty Parlor
+1 Serra's Sanctum
+1 Smoky Lounge // Misty Salon
+1 Smothering Tithe
+1 Sol Ring
+1 Spara's Headquarters
+1 Sphere of Safety
+1 Spiked Corridor // Torture Pit
+1 Starfield of Nyx
+1 Steam Vents
+1 Sterling Grove
+1 Stomping Ground
+1 Surgical Suite // Hospital Room
+0 Swamp
+1 Swords to Plowshares
+1 Sythis, Harvest's Hand
+1 Teferi's Protection
+1 Temple Garden
+1 Thassa, Deep-Dwelling
+1 The World Tree
+1 Unholy Annex // Ritual Chamber
+1 Valgavoth's Lair
+1 Verdant Catacombs
+1 Victor, Valgavoth's Seneschal
+1 Walk-In Closet // Forgotten Cellar
+1 Windswept Heath
+1 Wooded Foothills
+1 Zagoth Triome
+1 Zur, Eternal Schemer
+
+1 Marina Vendrell
